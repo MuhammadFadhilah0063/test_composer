@@ -1,0 +1,17 @@
+{
+    "name": "latihancomposer/latihan_composer_library",
+    "description": "Latihan Composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "LatihanComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MuhammadFadhilah0063",
+            "email": "uwaiesm@gmail.com"
+        }
+    ],
+    "require": {}
+}
